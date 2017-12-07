@@ -131,3 +131,6 @@ section {
 }
 
 /*/// SOCIAL ///*/
+#social {
+  position: fixed;
+}
