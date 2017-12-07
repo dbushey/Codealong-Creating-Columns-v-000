@@ -127,5 +127,5 @@ img, video, audio {
 /*/// SECTIONS ///*/
 section {
   padding: 20px; /* adding padding breaks the layout, use box sizing */
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
